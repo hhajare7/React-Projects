@@ -1,0 +1,44 @@
+body {
+  padding: 2rem;
+  margin: 2rem;
+  background-color: chartreuse;
+}
+
+.main {
+  background-color: silver;
+  border: 4px solid black;
+  border-radius: 40px;
+  margin: auto;
+  padding: 1rem;
+  max-width: 20rem;
+  height: 10rem;
+}
+
+h1 {
+  text-align: center;
+  width: 100%;
+  height: 3rem;
+  text-transform: capitalize;
+  color: white;
+  background-color: purple;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+.one {
+  margin: 1rem;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  background-color: red;
+  border: 2px solid white;
+  float: left; 
+}
+.two {
+  margin: 1rem;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  background-color: red;
+  border: 2px solid white;
+  float: right;
+}
